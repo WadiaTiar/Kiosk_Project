@@ -1,0 +1,11 @@
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\bin\Debug\FromKioskToMall_DataAccessLayer.dll
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\bin\Debug\FromKioskToMall_DataAccessLayer.pdb
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\bin\Debug\FromKioskToMall.Models.dll
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\bin\Debug\FromKioskToMall.Models.pdb
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\obj\Debug\FromKioskToMall_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\obj\Debug\FromKioskToMall_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\obj\Debug\FromKios.B2784694.Up2Date
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\obj\Debug\FromKioskToMall_DataAccessLayer.dll
+C:\Users\King Computer\source\repos\FromKioskToMall_DataAccessLayer\obj\Debug\FromKioskToMall_DataAccessLayer.pdb

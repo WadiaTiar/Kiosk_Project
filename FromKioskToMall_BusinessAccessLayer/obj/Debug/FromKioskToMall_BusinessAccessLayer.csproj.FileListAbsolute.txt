@@ -1,0 +1,13 @@
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\bin\Debug\FromKioskToMall_BusinessAccessLayer.dll
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\bin\Debug\FromKioskToMall_BusinessAccessLayer.pdb
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\bin\Debug\FromKioskToMall.Models.dll
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\bin\Debug\FromKioskToMall_DataAccessLayer.dll
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\bin\Debug\FromKioskToMall.Models.pdb
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\bin\Debug\FromKioskToMall_DataAccessLayer.pdb
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\obj\Debug\FromKioskToMall_BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\obj\Debug\FromKioskToMall_BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\obj\Debug\FromKios.DF0664DB.Up2Date
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\obj\Debug\FromKioskToMall_BusinessAccessLayer.dll
+C:\Users\King Computer\source\repos\FromKioskToMall_BusinessAccessLayer\obj\Debug\FromKioskToMall_BusinessAccessLayer.pdb
